@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bunch: 1
+  kg: 9.99
+  product_price: 9.99
+  product: one
+  stall: one
+
+two:
+  bunch: 1
+  kg: 9.99
+  product_price: 9.99
+  product: two
+  stall: two

@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  farm_location: MyString
+  plant_quantity: 9.99
+  plant_date: 2021-07-21 14:34:48
+  pick_quantity: 9.99
+  pick_date: 2021-07-21 14:34:48
+  user: one
+
+two:
+  farm_location: MyString
+  plant_quantity: 9.99
+  plant_date: 2021-07-21 14:34:48
+  pick_quantity: 9.99
+  pick_date: 2021-07-21 14:34:48
+  user: two

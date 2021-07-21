@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sold_quantity: 9.99
+  leftover_quantity: 1.5
+  week_sale: 9.99
+  annual_sale: 9.99
+  product: one
+  stall: one
+
+two:
+  sold_quantity: 9.99
+  leftover_quantity: 1.5
+  week_sale: 9.99
+  annual_sale: 9.99
+  product: two
+  stall: two
